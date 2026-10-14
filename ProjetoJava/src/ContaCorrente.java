@@ -2,8 +2,7 @@ package ProjetoJava.src;
 
 public class ContaCorrente {
 
-//Atributos (As caracteristicas
-   //  do nosso objeto )
+//Atributos (As caracteristicas do nosso objeto )
    //O que o objeto tem!
    //são seguros ou publicos
 
